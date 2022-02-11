@@ -274,7 +274,6 @@ public void checkOut(){
         hargaOrder = dataOrder.get(i).hargaOrder;
         jumlahOrder = dataOrder.get(i).jumlahOrder;
         dataOrder.get(i).jumlahOrder = jumlah;
-    
         break;
       default:
         break;
